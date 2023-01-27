@@ -130,6 +130,7 @@
 <div class="flex flex-col justify-center items-center pt-6">
 <img class="w-64 " src="https://i.ibb.co/vqzXRV9/de4.png" alt="de4" >
 </div>
+<faq />
   
 <div ref="footer" class="pt-12 lg:px-28">
         <footer id="footer" class="relative z-50 dark:bg-gray-900 pt-24">
@@ -149,6 +150,7 @@
 import Services from './components/Services.vue'
 import Slider from './components/Slider.vue'
 import Product from './components/Product.vue'
+import Faq from './components/Faq.vue'
 
 export default {
   name: 'App',
@@ -157,7 +159,8 @@ export default {
     
     Services,
     Slider,
-    Product
+    Product,
+    Faq
   },
   methods: {
     toggleMenu(){
