@@ -1,8 +1,8 @@
 <template>
   <Vue3Marquee>
-    <img class="px-8" height="200" width="300" src="https://i.ibb.co/x8QRfX6/dell.png" />
-    <img class="px-8" height="200" width="300" src="https://i.ibb.co/d6p65qh/g3.png" />
-    <img class="px-8" height="200" width="300" src="https://i.ibb.co/3FtqCbk/zen.png" />
+    <img class="px-8" height="200" width="300" src="https://i.ibb.co/x3hHFz8/dell.png" />
+    <img class="px-8" height="200" width="300" src="https://i.ibb.co/3W1FNTH/g3.png" />
+    <img class="px-8" height="200" width="300" src="https://i.ibb.co/10q9tgn/zen.png" />
   </Vue3Marquee>
 </template>
 
